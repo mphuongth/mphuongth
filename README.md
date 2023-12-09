@@ -1,4 +1,3 @@
-# hello-world
 ## About Me
 
 I'm a dedicated Business Analyst passionate about unraveling complex business challenges and optimizing processes for efficiency. With a keen eye for detail and a knack for problem-solving, I thrive on analyzing data to derive actionable insights that drive strategic decision-making.
