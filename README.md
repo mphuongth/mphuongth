@@ -1,9 +1,23 @@
-## About Me
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+<h1 align="center"> Hi! I'm Phuong <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm a dedicated Business Analyst passionate about unraveling complex business challenges and optimizing processes for efficiency. With a keen eye for detail and a knack for problem-solving, I thrive on analyzing data to derive actionable insights that drive strategic decision-making.
+I'm Phuong Truong, a dedicated Business Analyst. Recently, I've embarked on an exciting journey into the world of coding 💻.
 
-Recently, I've embarked on an exciting journey into the world of coding. Eager to broaden my skill set, I'm diving into learning programming languages such as Python and JavaScript. I believe that combining my analytical mindset with coding skills will allow me to create innovative solutions, automate workflows, and better communicate with technical teams.
+- :seedling: I’m currently learning about HTML and CSS.
+- :speech_balloon: Ask me about anything.
+- 😄 Pronouns: She/Her.
 
-My goal is to leverage my analytical background alongside newfound coding abilities to bridge the gap between business needs and technical solutions. I'm enthusiastic about embracing the dynamic nature of technology and applying it to optimize processes and drive impactful change.
+🤝 &nbsp; Connect with Me
 
-Let's connect and explore how the fusion of analytical expertise and coding proficiency can unlock new possibilities in the business landscape.
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phuong-truong-4a6734154/)
+
+<hr>
+
+### 🛠 &nbsp; Tech Stack
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<hr>
+
