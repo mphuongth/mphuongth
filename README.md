@@ -12,6 +12,10 @@ I'm Phuong Truong, a dedicated Business Analyst. Recently, I've embarked on an e
 🤝 &nbsp; Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phuong-truong-4a6734154/)
+<a href="mailto:mphuongth@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 <hr>
 
