@@ -5,7 +5,7 @@
 
 I'm Phuong Truong, a dedicated Business Analyst. Recently, I've embarked on an exciting journey into the world of coding 💻.
 
-- :seedling: I’m currently learning about HTML and CSS.
+- :seedling: I’m currently learning how to vibe coding and be able to build my own applications
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
 
